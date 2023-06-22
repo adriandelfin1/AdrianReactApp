@@ -1,40 +1,46 @@
-# Real-time Chat Web Application
-This repository contains the source code for a real-time chat web application, built with the MERN stack (MongoDB, Express.js, React, Node.js). The application offers a dynamic, intuitive, and robust platform for real-time communication, mirroring popular messaging platforms in functionality and user experience.
+# Getting Started with Create React App and Redux
 
-## Key Features:
-**Real-time communication:** Built with Socket.io, the application enables instant messaging across multiple users.  
-**Multiple Chat Rooms:** Users can join and participate in various chat rooms for different topics.  
-**Direct Messages:** Users can send direct, private messages to other users.  
-**Multimedia and Screen Sharing:** The application supports sharing of multimedia content, including images, videos, and files.  
-**Voice, Video, and Screen Sharing Chat:** Integrated with WebRTC to facilitate direct peer-to-peer communication for voice, video, and screen sharing chat.  
-## Technologies Used:
-**Front-end:** React for building user interface components.  
-**Back-end:** Node.js and Express.js for server-side operations.  
-**Database:** MongoDB for storing chat data and user information.  
-**Real-time Communication:** Socket.io for real-time event-based communication.  
-**Voice, Video, and Screen Sharing Chat:** WebRTC for peer-to-peer communication.  
-This application serves as a demonstration of my proficiency in full-stack development, real-time web technologies, and database management.  
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
-## Notes for those that want to run this on their own
-You can see the packages that I am using for this project in the backend and frontend folders and their versions. To download these packages follow these steps  
-1. Create a folder on your desktop, and with in that folder, create a frontend and backend folder
-2. Open your command portal and navigate to your desired folder
-   * **example for backend:** cd downloads\nameofyourfile\nameofyourbackendfile
-   * **example for frontend:** cd downloads\nameofyourfile\nameofyourfrontendfile
-3. See all the libraries that I have in my package.JSON of both folders and install them with npm install
-   * **example for backend:** npm install bcryptjs cors dotenv express express-joi-validation joi jsonwebtoken mongoose nodemon socket.io uuid
-   * **example for frontend:** npm install @emotion/react @emotion/styled @mui/icons-material @mui/material axios react react-dom react-redux react-router-dom react-scripts redux-thunk simple-peer socket.io-client
-       
-You can see the the versions of the installed libraries on the files in the folders. Note that if you use the npm install method provided, you will install the latest version of the libraries so for anyone trying to run this in the future you may have to adjust the code to be compatible with updated libraries.
-  
-You should also check out the [`.env`](webapp-backend/.env) file in the webapp-backend folder I have provided and make sure you put your own MONGO URI from your mongodb.
+## Available Scripts
 
-## Screen shots of the running webapp  
-### Login and register functionality
-![Login and register functionality](Web-SS1.png)
-### Direct messaging with friends functionality
-![Direct messaging with friends functionality](Web-SS2.png)  
-### Voice, video and screensharing functionality
-![Voice, video and screensharing functionality](Web-SS3.png)
+In the project directory, you can run:
 
-### video link demonstration on the way
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
