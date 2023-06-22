@@ -23,7 +23,7 @@ You can see the packages that I am using for this project in the backend and fro
    * **example for frontend:** cd downloads\nameofyourfile\nameofyourfrontendfile
 3. See all the libraries that I have in my package.JSON of both folders and install them with npm install
    * **example for backend:** npm install bcryptjs cors dotenv express express-joi-validation joi jsonwebtoken mongoose nodemon socket.io uuid
-   * **example for frontend:** npm install @emotion/react @emotion/styled @mui/icons-material @mui/material axios react react-dom react-redux react-router-dom react-scripts redux-thunk simple-peer socket.io-client
+   * **example for frontend:** npm install @emotion/react @emotion/styled @mui/icons-material @mui/material axios react react-dom react-redux react-router-dom react-scripts redux-thunk simple-peer socketio-client
        
 You can see the the versions of the installed libraries on the files in the folders. Note that if you use the npm install method provided, you will install the latest version of the libraries so for anyone trying to run this in the future you may have to adjust the code to be compatible with updated libraries.
   
