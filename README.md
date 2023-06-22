@@ -16,7 +16,7 @@ This repository contains the source code for a real-time chat web application, b
 This application serves as a demonstration of my proficiency in full-stack development, real-time web technologies, and database management.  
 
 ## Notes for those that want to run this on their own
-You can see the packages that I am using for this project in the backend and frontend folders and their versions. To download these packages follow these steps  
+You can see the packages that I am using for this project in the backend and frontend folders and their versions. To install these packages follow these steps  
 1. Create a folder on your desktop, and with in that folder, create a frontend and backend folder
 2. Open your command portal and navigate to your desired folder
    * **example for backend:** cd downloads\nameofyourfile\nameofyourbackendfile
