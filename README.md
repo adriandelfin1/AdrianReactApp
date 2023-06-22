@@ -34,7 +34,7 @@ You should also check out the [`.env`](webapp-source-backend/.env) file in the w
 ![Login and register functionality](Web-SS1.png)
 ### Direct messaging with friends functionality
 ![Direct messaging with friends functionality](Web-SS2.png)  
-### Voice, video and screensharing functionality
+### Voice and video calling with screensharing functionality
 ![Voice, video and screensharing functionality](Web-SS3.png)
 
 ### video link demonstration on the way
