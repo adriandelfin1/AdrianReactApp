@@ -27,7 +27,7 @@ You can see the packages that I am using for this project in the backend and fro
        
 You can see the the versions of the installed libraries on the files in the folders. Note that if you use the npm install method provided, you will install the latest version of the libraries so for anyone trying to run this in the future you may have to adjust the code to be compatible with updated libraries.
   
-You should also check out the [`.env`](webapp-backend/.env) file in the webapp-backend folder I have provided and make sure you put your own MONGO URI from your mongodb.
+You should also check out the [`.env`](webapp-source-backend/.env) file in the webapp-backend folder I have provided and make sure you put your own MONGO URI from your mongodb.
 
 ## Screen shots of the running webapp  
 ### Login and register functionality
