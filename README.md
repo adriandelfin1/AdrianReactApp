@@ -17,7 +17,7 @@ This application serves as a demonstration of my proficiency in full-stack devel
 
 ## Notes for those that want to run this on their own
 You can see the packages that I am using for this project in the backend and frontend folders and their versions. To install these packages follow these steps  
-1. Create a folder and five it anyname you like, for example you can name it webapp, and put both the back and and frontend folders in this repository.
+1. Create a folder and five it anyname you like, for example you can name it webapp-source, and put both the back and and frontend folders in this repository.
 2. Open your command portal and navigate to your desired folder
    * **example for backend:** cd downloads\webapp-source\webapp-backend-source
    * **example for frontend:** cd downloads\webapp-source\webapp-frontend-source
