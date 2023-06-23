@@ -9,8 +9,7 @@
 **Back-end:** Node.js and Express.js for server-side operations.  
 **Database:** MongoDB for storing chat data and user information.  
 **Real-time Communication:** Socket.io for real-time event-based communication.  
-**Voice, Video, and Screen Sharing Chat:** WebRTC for peer-to-peer communication.  
-This application serves as a demonstration of my proficiency in full-stack development, real-time web technologies, and database management.  
+**Voice, Video, and Screen Sharing Chat:** WebRTC for peer-to-peer communication.   
 
 ## Notes for those that want to run this on their own
 You should check out the [`.env`](webapp-source-backend/.env) file in the webapp-backend folder I have provided and make sure you put your own MONGO URI from your mongodb. Here is a helpful source to help you do that: [`Click me`](https://www.youtube.com/watch?v=aygw0wjW5bA). Then, follow the next steps. 
