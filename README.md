@@ -18,10 +18,10 @@ This application serves as a demonstration of my proficiency in full-stack devel
 ## Notes for those that want to run this on their own
 You can see the packages that I am using for this project in the backend and frontend folders and their versions. To install these packages follow these steps  
 1. Create a folder and five it anyname you like, for example you can name it webapp-source, and put both the back and and frontend folders in this repository.
-2. Open your command portal and navigate to your desired folder
+2. Open your command portal and change the directory to your desired folder.
    * **example for backend:** cd downloads\webapp-source\webapp-backend-source
    * **example for frontend:** cd downloads\webapp-source\webapp-frontend-source
-3. Once you are in your desired directory, install them by typing npm install in the terminal
+3. Once you are in your desired directory, install the package modules by typing npm install in the terminal.
 4. Once you have both the backend folder and frontend folder installation complete, open 2 different terminals and navigate on to the frontend and the other to the backend
 5. Then just type in npm start on the terminal, I suggest you do the backend first and then frontend
    * Your backend terminal should say something like "listening on port 5002", or which ever port number you set on your .env file.
