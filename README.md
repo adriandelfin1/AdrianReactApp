@@ -1,4 +1,4 @@
-# Real-time Chat Web Application
+# Social Messaging Web Application
 This repository contains the source code for a real-time chat web application, built with the MERN stack (MongoDB, Express.js, React, Node.js). The application offers a dynamic, intuitive, and robust platform for real-time communication, mirroring popular messaging platforms in functionality and user experience.
 
 ## Key Features: 
