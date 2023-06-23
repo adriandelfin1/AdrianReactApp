@@ -2,8 +2,8 @@
 This repository contains the source code for a real-time chat web application, built with the MERN stack (MongoDB, Express.js, React, Node.js). The application offers a dynamic, intuitive, and robust platform for real-time communication, mirroring popular messaging platforms in functionality and user experience.
 
 ## Key Features: 
-**Direct Messages:** Users can send direct, private messages to other users.  
-**Multimedia and Screen Sharing:** The application supports sharing of multimedia content, including images, videos, and files.  
+**Login and registration authentication** Users are able to create an account and log in to those accounts so they can add friends that they can interact with through the app.
+**Direct Messages:** Users can send direct, private messages to other users.    
 **Voice, Video, and Screen Sharing Chat:** Integrated with WebRTC to facilitate direct peer-to-peer communication for voice, video, and screen sharing chat.  
 ## Technologies Used:
 **Front-end:** React for building user interface components.  
