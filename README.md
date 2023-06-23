@@ -4,7 +4,7 @@ This repository contains the source code for a real-time chat web application, b
 ## Key Features: 
 **Login and registration authentication** Users are able to create an account and log in to those accounts.  
 **Direct Messages:** Users can send direct, private messages to other users.    
-**Voice, Video, and Screen Sharing Chat:** Integrated with WebRTC to facilitate direct peer-to-peer communication for voice, video, and screen sharing chat.  
+**Voice, Video, and Screen Sharing Chat:** Users can have direct peer-to-peer communication for voice, video, and screen sharing chat with other users they have added.  
 ## Technologies Used:
 **Front-end:** React for building user interface components.  
 **Back-end:** Node.js and Express.js for server-side operations.  
