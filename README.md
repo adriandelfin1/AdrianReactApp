@@ -17,16 +17,16 @@ This application serves as a demonstration of my proficiency in full-stack devel
 
 ## Notes for those that want to run this on their own
 You can see the packages that I am using for this project in the backend and frontend folders and their versions. To install these packages follow these steps  
-1. Create a folder on your desktop, and with in that folder, create a frontend and backend folder
+1. Create a folder and five it anyname you like, for example you can name it webapp, and put both the back and and frontend folders in this repository.
 2. Open your command portal and navigate to your desired folder
-   * **example for backend:** cd downloads\nameofyourfile\nameofyourbackendfile
-   * **example for frontend:** cd downloads\nameofyourfile\nameofyourfrontendfile
-3. See all the libraries that I have in my package.JSON of both folders and install them with npm install
-   * **example for backend:** npm install bcryptjs cors dotenv express express-joi-validation joi jsonwebtoken mongoose nodemon socket.io uuid
-   * **example for frontend:** npm install @emotion/react @emotion/styled @mui/icons-material @mui/material axios react react-dom react-redux react-router-dom react-scripts redux-thunk simple-peer socketio-client
-       
-You can see the the versions of the installed libraries on the files in the folders. Note that if you use the npm install method provided, you will install the latest version of the libraries so for anyone trying to run this in the future you may have to adjust the code to be compatible with updated libraries.
-  
+   * **example for backend:** cd downloads\webapp-source\webapp-backend-source
+   * **example for frontend:** cd downloads\webapp-source\webapp-frontend-source
+3. Once you are in your desired directory, install them by typing npm install in the terminal
+4. Once you have both the backend folder and frontend folder installation complete, open 2 different terminals and navigate on to the frontend and the other to the backend
+5. Then just type in npm start on the terminal, I suggest you do the backend first and then frontend
+   * Your backend terminal should say something like "listening on port 5002", or which ever port number you set on your .env file.
+   * Your frontend terminal should automatically open the app for you
+   
 You should also check out the [`.env`](webapp-source-backend/.env) file in the webapp-backend folder I have provided and make sure you put your own MONGO URI from your mongodb.
 
 ## Screen shots of the running webapp  
