@@ -1,7 +1,7 @@
 # Social Messaging Web Application
 
 ## Key Features: 
-**Login and registration authentication** Users are able to create an account and log in to those accounts.  
+**Login and registration authentication:** Users are able to create an account and log in to those accounts.  
 **Direct Messaging:** Users can send direct, private messages to other users.    
 **Voice, Video, and Screen Sharing Chat:** Users can have direct communication for voice, video, and screen sharing with other users.  
 ## Technologies Used:
