@@ -13,7 +13,7 @@
 
 ## Notes for those that want to run this on their own
 You should check out the [`.env`](webapp-source-backend/.env) file in the webapp-backend folder I have provided and make sure you put your own MONGO URI from your mongodb. Here is a helpful source to help you do that: [`Click me`](https://www.youtube.com/watch?v=aygw0wjW5bA). Then, follow the next steps. 
-1. Create a folder and five it anyname you like, for example you can name it webapp-source, and put both the back and and frontend folders in this repository.
+1. Create a folder and give it any name you like, for example you can name it webapp-source, and put both the back and and frontend folders in this repository.
 2. Open your command portal and change the directory to your desired folder.
    * **example for backend:** cd downloads\webapp-source\webapp-backend-source
    * **example for frontend:** cd downloads\webapp-source\webapp-frontend-source
