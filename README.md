@@ -20,7 +20,7 @@ You should check out the [`.env`](webapp-source-backend/.env) file in the webapp
 3. Now, open 2 terminals, one for the backend and one for the frontend
   * **example for backend:** cd downloads\webapp-source\webapp-source-backend
   * **example for frontend:** cd downloads\webapp-source\webapp-source-frontend
-4. Then, install the package modules by typing npm install in the terminal for the backend and frontend.
+4. Then, install the package modules by typing npm install in the terminal for the backend and frontend.    
 5. Then just type in npm start on each of the terminals, I suggest you do the backend first and then frontend
    * Your backend terminal should say something like "listening on port 5002", or which ever port number you set on your .env file.
    * Your frontend terminal should automatically open the app for you
