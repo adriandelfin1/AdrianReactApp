@@ -33,3 +33,5 @@ You should check out the [`.env`](webapp-source-backend/.env) file in the webapp
 ### Voice and video calling with screensharing functionality
 ![Voice, video and screensharing functionality](Web-SS3.png)
 
+### There are so many more features so please feel free to run this app yourself to see more, and report any bugs and issues you have to me. Thank you for viewing!
+
