@@ -1,4 +1,4 @@
-# Unified Communication App made with React
+# Unified Communication App  
 
 ## Key Features: 
 **Login and registration authentication:** Users are able to create an account and log in to those accounts.  
